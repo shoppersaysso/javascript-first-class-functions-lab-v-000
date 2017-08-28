@@ -13,4 +13,3 @@ function createMultiplier(multiplyValue) {
 function multiplier(a, b) {
   return a * b;
 }
-
