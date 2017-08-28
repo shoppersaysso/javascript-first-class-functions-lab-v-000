@@ -1,7 +1,9 @@
-function countdown() {
-  
+function countdown(callback) {
+  window.setTimeout()
 }
 
 function createMultiplier() {
   
 }
+
+
